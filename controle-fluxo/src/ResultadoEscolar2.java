@@ -11,5 +11,6 @@ public class ResultadoEscolar2 {
 
         else
             System.out.println("Reprovado");
+
     }
 }
