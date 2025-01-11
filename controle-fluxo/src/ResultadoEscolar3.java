@@ -10,8 +10,7 @@ public class ResultadoEscolar3 {
 }
 
 // Cenário 2, com três condicionais
-
-public class ResultadoEscolar3 {
+class ResultadoEscolarCenario2 {
     public static void main(String[] args) {
 
         int nota = 6;
