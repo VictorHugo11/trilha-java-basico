@@ -6,5 +6,8 @@ public class ExemploBreak {
 
             System.out.println(numero);
         }
+        //Qual a saída no console ?
+        //1
+        //2
     }
 }
