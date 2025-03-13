@@ -24,6 +24,6 @@ public class Estabelecimento {
         cliente.escolherLanche();
         cliente.fazerPedido();
         cliente.pagarConta();
-        
+
     }
 }
