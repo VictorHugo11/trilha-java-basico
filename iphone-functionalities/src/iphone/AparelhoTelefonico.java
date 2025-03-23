@@ -1,6 +1,6 @@
 package iphone;
 
-public interface aparelhoTelefonico {
+public interface AparelhoTelefonico {
     void ligar(String numero);
     void atender();
     void inicioCorreioVoz();
